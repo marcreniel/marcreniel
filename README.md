@@ -18,7 +18,7 @@ I am a freelance developer from the <img src="https://emojipedia-us.s3.dualstack
 ![Tailwind](https://img.shields.io/badge/-Tailwind-05122A?style=flat-square&logo=tailwindcss)&nbsp;
 ![Framework7](https://img.shields.io/badge/-Framework7-05122A?style=flat-square&logo=framework7)&nbsp; 
 
-### 📚 What am I learning?
+### 📚 What am I learning/interested in?
 ![TensorFlow](https://img.shields.io/badge/-Tensorflow.js-05122A?style=flat-square&logo=Tensorflow)&nbsp; 
 ![C#](https://img.shields.io/badge/-C%23-05122A?style=flat-square&logo=c-sharp)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat-square&logo=c%2B%2B)&nbsp;
