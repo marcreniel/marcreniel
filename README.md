@@ -19,6 +19,7 @@ I am a freelance developer from the <img src="https://emojipedia-us.s3.dualstack
 ![Framework7](https://img.shields.io/badge/-Framework7-05122A?style=flat-square&logo=framework7)&nbsp; 
 
 ### 📚 What am I learning?
+![TensorFlow](https://img.shields.io/badge/-Tensorflow.js-05122A?style=flat-square&logo=Tensorflow)&nbsp; 
 ![C#](https://img.shields.io/badge/-C%23-05122A?style=flat-square&logo=c-sharp)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat-square&logo=c%2B%2B)&nbsp;
 ![VB.net](https://img.shields.io/badge/-VB.net-05122A?style=flat-square&logo=visual-studio)&nbsp;
