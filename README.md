@@ -2,7 +2,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=github.com/imedra)
 [![Linkedin](https://img.shields.io/badge/-marcbernardino-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marc-reniel-bernardino-50ab8a220)](https://www.linkedin.com/in/marc-reniel-bernardino-50ab8a220)
 [![Twitter](https://img.shields.io/badge/-@notmarc_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/notmarc_)](https://twitter.com/notmarc_)
-[![Website Badge](https://img.shields.io/badge/-notmarc.me-yellowgreen?style=flat-square&logo=Google-Chrome&logoColor=white&link=https://jessicalim.me)](https://jessicalim.me)
+[![Website Badge](https://img.shields.io/badge/-notmarc.me-yellowgreen?style=flat-square&logo=Google-Chrome&logoColor=white&link=https://notmarc.me)](https://notmarc.me)
 
 I am a freelance developer from the <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/282/flag-united-states_1f1fa-1f1f8.png" width="16px">  United States. I just code whatever ideas comes into my mind. I also open-source a majority of my projects so anyone can check out and build upon my work!
 
