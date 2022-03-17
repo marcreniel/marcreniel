@@ -18,12 +18,14 @@ I am a freelance developer from the <img src="https://emojipedia-us.s3.dualstack
 ![Tailwind](https://img.shields.io/badge/-Tailwind-05122A?style=flat-square&logo=tailwindcss)&nbsp;
 ![Framework7](https://img.shields.io/badge/-Framework7-05122A?style=flat-square&logo=framework7)&nbsp; 
 
-### 📚 What am I learning/interested in?
+### 📚 What am I learning?
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python)&nbsp; 
-![TensorFlow](https://img.shields.io/badge/-Tensorflow.js-05122A?style=flat-square&logo=Tensorflow)&nbsp; 
-![C#](https://img.shields.io/badge/-C%23-05122A?style=flat-square&logo=c-sharp)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat-square&logo=c%2B%2B)&nbsp;
-![VB.net](https://img.shields.io/badge/-VB.net-05122A?style=flat-square&logo=visual-studio)&nbsp;
+![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat-square&logo=NumPy)&nbsp; 
+
+### 📝 My Active Projects!
+- **Maple (closed-source)**
+- **[Headphones](https://github.com/imedra/Headphones)**
+- **[notmarc.me](https://github.com/imedra/notmarc.me)**
 
 ### 📈 Some cool statistics!
 <a href="https://github.com/imedra">
