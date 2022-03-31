@@ -23,7 +23,7 @@ I am a freelance developer from the <img src="https://emojipedia-us.s3.dualstack
 ![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat-square&logo=NumPy)&nbsp; 
 
 ### 📝 My Active Projects!
-- **Maple (closed-source)**
+- **[Maple](https://github.com/imedra/Maple)**
 - **[Headphones](https://github.com/imedra/Headphones)**
 - **[notmarc.me](https://github.com/imedra/notmarc.me)**
 
