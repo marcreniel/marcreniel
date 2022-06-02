@@ -1,4 +1,4 @@
-## Hi! I'm Marc Bernardino. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hi! I'm Marc Bernardino. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 ![](https://visitor-badge.glitch.me/badge?page_id=github.com/imedra)
 [![Linkedin](https://img.shields.io/badge/-marcbernardino-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marc-reniel-bernardino-50ab8a220)](https://www.linkedin.com/in/marc-reniel-bernardino-50ab8a220)
 [![Twitter](https://img.shields.io/badge/-@notmarc_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/notmarc_)](https://twitter.com/notmarc_)
