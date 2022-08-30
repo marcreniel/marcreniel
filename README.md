@@ -20,13 +20,14 @@ I am a freelance developer from the <img src="https://emojipedia-us.s3.dualstack
 
 ### 📚 What am I learning?
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python)&nbsp; 
-![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat-square&logo=NumPy)&nbsp; 
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat-square&logo=Java)&nbsp; 
 
 ### 📝 My Active Projects!
-- **[Maple](https://github.com/imedra/Maple)**
 - **[Headphones](https://github.com/imedra/Headphones)**
 - **[notmarc.me](https://github.com/imedra/notmarc.me)**
+
+### 💤 Inactive Projects (Will get around to updating them some day...)
+- **[Maple](https://github.com/imedra/Maple)**
 
 ### 📈 Some cool statistics!
 <a href="https://github.com/imedra">
