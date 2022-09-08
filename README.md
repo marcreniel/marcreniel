@@ -20,6 +20,7 @@ I am a web developer from the <img src="https://emojipedia-us.s3.dualstack.us-we
 
 ### 📚 What am I learning?
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat-square&logo=Dart)&nbsp; 
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat-square&logo=Java)&nbsp; 
 
 ### 📝 My Active Projects!
 - **[Headphones](https://github.com/imedra/Headphones)**
