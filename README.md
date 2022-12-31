@@ -4,7 +4,7 @@
 [![Twitter](https://img.shields.io/badge/-@notmarc_-05122A?style=flat-square&&logo=twitter&logoColor=white&link=https://twitter.com/notmarc_)](https://twitter.com/notmarc_)
 [![Website Badge](https://img.shields.io/badge/-notmarc.me-05122A?style=flat-square&logo=Google-Chrome&logoColor=white&link=https://notmarc.me)](https://notmarc.me)
 
-I am a web developer from the <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/282/flag-united-states_1f1fa-1f1f8.png" width="16px">  United States. I just code whatever ideas comes into my mind. I also open-source a majority of my projects so anyone can check out and build upon my work!
+I am a frontend web developer from the <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/282/flag-united-states_1f1fa-1f1f8.png" width="16px">  United States. I just code whatever ideas comes into my mind. I also open-source a majority of my projects so anyone can check out and build upon my work!
 
 #### 📜 Languages
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=HTML5)&nbsp;
