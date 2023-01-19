@@ -24,12 +24,12 @@ I am a frontend web developer from the <img src="https://emojipedia-us.s3.dualst
 
 
 #### 📝 Projects
-[![](https://img.shields.io/badge/-🌐_notmarc.me-05122A?style=flat-square)](https://github.com/imedra/notmarc.me)
-[![](https://img.shields.io/badge/-_discordCGPT-05122A?style=flat-square&logo=discord)](https://github.com/imedra/discordCGPT)
-[![](https://img.shields.io/badge/-🍁_Maple-05122A?style=flat-square)](https://github.com/imedra/Maple)
-[![](https://img.shields.io/badge/-🎧_Headphones-05122A?style=flat-square)](https://github.com/imedra/Headphones)
-[![](https://img.shields.io/badge/-🦠_ChiVaxTrack-05122A?style=flat-square)](https://github.com/imedra/ChiVaxTrack)
-[![](https://img.shields.io/badge/-🥷_shrtn.ninja-05122A?style=flat-square)](https://github.com/imedra/shrtn.ninja)
+[![](https://img.shields.io/badge/-🌐_notmarc.me-05122A?style=flat-square)](https://github.com/marcreniel/notmarc.me)
+[![](https://img.shields.io/badge/-_discordCGPT-05122A?style=flat-square&logo=discord)](https://github.com/marcreniel/discordCGPT)
+[![](https://img.shields.io/badge/-🍁_Maple-05122A?style=flat-square)](https://github.com/marcreniel/Maple)
+[![](https://img.shields.io/badge/-🎧_Headphones-05122A?style=flat-square)](https://github.com/marcreniel/Headphones)
+[![](https://img.shields.io/badge/-🦠_ChiVaxTrack-05122A?style=flat-square)](https://github.com/marcreniel/ChiVaxTrack)
+[![](https://img.shields.io/badge/-🥷_shrtn.ninja-05122A?style=flat-square)](https://github.com/marcreniel/shrtn.ninja)
 
 
 
