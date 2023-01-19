@@ -34,7 +34,7 @@ I am a frontend web developer from the <img src="https://emojipedia-us.s3.dualst
 
 
 #### 📈 Some cool statistics!
-<a href="https://github.com/imedra">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=imedra&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=imedra&layout=compact&langs_count=8&theme=tokyonight"/>
+<a href="https://github.com/marcreniel">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=marcreniel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=marcreniel&layout=compact&langs_count=8&theme=tokyonight"/>
 </a>
