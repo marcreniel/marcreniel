@@ -15,7 +15,7 @@ I am a frontend web developer from the <img src="https://emojipedia-us.s3.dualst
 ![Java](https://img.shields.io/badge/-Learning_Java-05122A?style=flat-square&logo=)&nbsp; 
 
 #### 👨‍💻 Technologies
-![React](https://img.shields.io/badge/-React-05122A?style=flat-square&logo=react)&nbsp;
+![React](https://img.shields.io/badge/-React.js_&_React_Native-05122A?style=flat-square&logo=react)&nbsp;
 ![Axios](https://img.shields.io/badge/-Axios-05122A?style=flat-square&logo=axios)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat-square&logo=node.js)&nbsp;
 ![discord.js](https://img.shields.io/badge/-discord.js-05122A?style=flat-square&logo=discord)&nbsp;
