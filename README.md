@@ -4,7 +4,7 @@
 [![Website Badge](https://img.shields.io/badge/-notmarc.me-05122A?style=flat-square&logo=Google-Chrome&logoColor=white&link=https://notmarc.me)](https://notmarc.me)
 
 - 📔 I’m currently a Computer Science student and proficient in full-stack web development.
-- 🌱 I'm interested in Web Development, Natural Language Processing, and Machine Learning.
+- 🌱 I'm interested in Web Development, Natural Language Processing, and Neural Networks.
 - 📫 Feel free to visit my website [notmarc.me](https://notmarc.me) for more, or reach out to me directly at marc@notmarc.me!
 
 <a href="https://github.com/marcreniel">
